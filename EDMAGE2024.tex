@@ -1,0 +1,149 @@
+\documentclass{article}%
+\usepackage{lmodern}%
+\usepackage{tikz}
+\usepackage{calc,graphicx}
+\usepackage{graphics}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in,headsep=1cm,headheight= 1in,top=1.5in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{circuitikz}
+\usepackage{multicol}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{titlesec,titletoc}
+\usepackage{tikz}
+\usepackage{lastpage}
+\usepackage{pdfpages}
+\usepackage[framemethod=tikz]{mdframed}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{indentfirst}	%para sangrar el primer parrafo luego de una sección
+	\hypersetup{
+		colorlinks,
+			citecolor=black,
+			filecolor=black,
+			linkcolor=blue,
+			urlcolor=red
+	}
+
+	\newmdenv[align=center,linewidth=2pt,font=\sffamily,rightmargin=20pt]{caja}
+
+\renewcommand{\contentsname}{Índice}
+\renewcommand{\familydefault}{\sfdefault}%
+\graphicspath{ {imagenes/} }
+
+\tikzstyle{T1Box} = [fill=teal!20,text width=3cm,inner sep=3.2mm,rounded corners,draw=teal!80,line width=2pt,node distance=4.5cm and 7cm]
+\tikzstyle{T1Frecha} = [->,>=stealth,draw=teal!80,line width=3pt]
+
+\title{Proyecto Jefatura de Área}
+\date{\today}
+\author{Esteban Lemos}
+
+\titleformat{name=\section}[block]
+	{\sffamily\bfseries\Large}
+	{}
+	{0pt}
+	{\colorsection}
+		\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip}
+
+		\newcommand{\colorsection}[1]{%
+		\colorbox{teal!50}{\parbox{\dimexpr\textwidth-2\fboxsep}{\thesection\ #1}}}
+
+\begin{document}
+
+% membrete ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	\begin{flushright}
+		    PROVINCIA DE BUENOS AIRES\linebreak%
+			DIRECCIÓN GENERAL DE CULTURA Y EDUCACIÓN\linebreak%
+			DIRECCIÓN DE EDUCACIÓN TÉCNICA\linebreak%
+			\textbf{ESCUELA DE EDUCACIÓN SECUNDARIA TÉCNICA Nro. 1}\linebreak%
+			\textbf{"EDUARDO ADER"}\linebreak%
+			CERRITO 3966 VILLA ADELINA (1607)\linebreak%
+			TEL: 47350174
+	\end{flushright}
+	\begin{tikzpicture}[remember picture,overlay]
+		\node [xshift =1in+3.5cm/2, yshift =-(2in)] at (current page.north west){
+			\includegraphics[width=3.5cm]{logo2.jpg}};
+	\end{tikzpicture}\vspace{4ex}%
+
+% Carátula ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	\begin{center}
+		
+		\fontsize{40}{4}{\textbf{\textcolor{teal}{Proyecto}}}\linebreak \\%
+		\vspace{8ex}
+		\fontsize{40}{4}{\textbf{\textcolor{teal}{Sistema de Gestión Institucional}}}\linebreak\\%
+		\vspace{8ex}		
+		\huge{\textbf{Jefatura de Área E.E.S.T. N$^\circ$ 1 Vicente López}}\linebreak\\%
+	\end{center}\vspace{2cm}%
+
+	% Colaboradores, actuales directivos
+
+		\begin{large}
+			\begin{tabular*}{\linewidth}[]{l l}
+				\textbf{Director} : 		&Ezequiel Torres\\
+				\textbf{Vicedirector} : 	&Daniel Segnini\\
+				\textbf{Vicedirectora} :	&Karin Cuervo\\
+				\textbf{Vicedirectora} :	&Mariana Bonetti\\
+				\textbf{Secretaria} : 		&Cristina Gómez\\
+				\textbf{Jefe de Área} : 	&Esteban Lemos\\
+				\textbf{Jefe de Preceptores} : 					&Verónica Victorello\\
+				\textbf{Jefe del Dpto. Técnico Profesional} : 	&Alejandro Hsia\\
+			\end{tabular*}
+		\end{large}\linebreak\\%
+		\vspace{1cm}
+
+		\begin{center}
+			-- Octubre 2024 --
+		\end{center}
+
+		\newpage%
+
+		\tableofcontents{}%
+		
+
+\clearpage
+
+%El encabezado----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\renewcommand{\footrulewidth}{2pt}
+\renewcommand{\headrulewidth}{2pt}
+\pagestyle{fancy}
+	\rfoot{\thepage\ de \pageref{LastPage}}
+	\fancyhead{}
+	\cfoot{\footnotesize\textbf{ Escuela de Educación Secundaria Técnica N$^\circ$ 1 - Vicente López}\\Cerrito N$^\circ$ 3966 (1605) Villa Adelina, Partido de Vicente López.\\Tel:(011) 47350174 -- email: tecnica1vl@gmail.com}
+
+	\lhead{\begin{tikzpicture}
+		\node (0,0)[]{\includegraphics[width=0.5in]{logo2.jpg}};
+		\node [text width=8cm,align=left,xshift=5cm] at (0,0){\textbf{Proyecto de Gestión Institucional 2024}\linebreak Jefatura de Área\linebreak E.E.S.T. N$^\circ$ 1 V.L.} ;
+		\end{tikzpicture}
+	}
+	\rhead{\rightmark}
+
+%El Documento-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+\setlength{\parindent}{1em}
+
+
+
+\section{Fundamentación}
+	\input{fundamentacion}
+\section{Objetivo}
+	\input{Objetivo}
+\section{Acuerdos}
+	\input{Acuerdos.tex}
+\section{Enunciado}
+	\input{Enunciado.tex}	
+\section{Evaluación Colegiada}
+\input{EvalColegiada.tex}
+
+
+\newpage	
+
+\section{Anexos}
+
+\includepdf[pages=-]{ProyectoBalda.pdf}	
+	
+\end{document}
+
