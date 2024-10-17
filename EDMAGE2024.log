@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.21)  16 OCT 2024 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.21)  17 OCT 2024 16:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -899,7 +899,7 @@ Package hyperref Info: Link coloring ON on input line 55.
 \@outlinefile=\write4
 \openout4 = `EDMAGE2024.out'.
 
-<imagenes//logo2.jpg, id=102, 1074.0125pt x 1074.0125pt>
+<imagenes//logo2.jpg, id=106, 1074.0125pt x 1074.0125pt>
 File: imagenes//logo2.jpg Graphic file (type jpg)
 <use imagenes//logo2.jpg>
 Package pdftex.def Info: imagenes//logo2.jpg  used on input line 69.
@@ -1008,7 +1008,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [4]
-Overfull \hbox (0.27141pt too wide) in paragraph at lines 6--7
+Overfull \hbox (0.27141pt too wide) in paragraph at lines 5--6
 [][][]$\OT1/lmtt/m/n/10 https : / / drive . google . com / drive / folders / 1BbvXoqqAXC5Uq4ZXNdTD-[]EYfUl _ R2YkI ? usp = drive _ link$[][]\OT1/lmss/m/n/10 . 
  []
 
@@ -1019,7 +1019,7 @@ Overfull \hbox (0.27141pt too wide) in paragraph at lines 6--7
 
 File: imagenes//logo2.jpg Graphic file (type jpg)
 <use imagenes//logo2.jpg>
-Package pdftex.def Info: imagenes//logo2.jpg  used on input line 10.
+Package pdftex.def Info: imagenes//logo2.jpg  used on input line 9.
 (pdftex.def)             Requested size: 36.135pt x 36.11934pt.
 
 Underfull \hbox (badness 1681) has occurred while \output is active
@@ -1034,7 +1034,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [5]) (LDP.tex
 File: imagenes//logo2.jpg Graphic file (type jpg)
 <use imagenes//logo2.jpg>
-Package pdftex.def Info: imagenes//logo2.jpg  used on input line 23.
+Package pdftex.def Info: imagenes//logo2.jpg  used on input line 20.
 (pdftex.def)             Requested size: 36.135pt x 36.11934pt.
 
 Underfull \hbox (badness 1681) has occurred while \output is active
@@ -1047,14 +1047,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [6]) (LDDW.tex
-Overfull \hbox (0.27141pt too wide) in paragraph at lines 5--6
+Overfull \hbox (0.27141pt too wide) in paragraph at lines 4--5
 [][][]$\OT1/lmtt/m/n/10 https : / / drive . google . com / drive / folders / 1BbvXoqqAXC5Uq4ZXNdTD-[]EYfUl _ R2YkI ? usp = drive _ link$[][]\OT1/lmss/m/n/10 . 
  []
 
 ) (LDRI.tex
 File: imagenes//logo2.jpg Graphic file (type jpg)
 <use imagenes//logo2.jpg>
-Package pdftex.def Info: imagenes//logo2.jpg  used on input line 11.
+Package pdftex.def Info: imagenes//logo2.jpg  used on input line 8.
 (pdftex.def)             Requested size: 36.135pt x 36.11934pt.
 
 Underfull \hbox (badness 1681) has occurred while \output is active
@@ -1069,7 +1069,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [7])) (Enunciado.tex
 File: imagenes//logo2.jpg Graphic file (type jpg)
 <use imagenes//logo2.jpg>
-Package pdftex.def Info: imagenes//logo2.jpg  used on input line 30.
+Package pdftex.def Info: imagenes//logo2.jpg  used on input line 28.
 (pdftex.def)             Requested size: 36.135pt x 36.11934pt.
 
 Underfull \hbox (badness 1681) has occurred while \output is active
@@ -1084,7 +1084,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [8]) (EvalColegiada.tex)
 File: imagenes//logo2.jpg Graphic file (type jpg)
 <use imagenes//logo2.jpg>
-Package pdftex.def Info: imagenes//logo2.jpg  used on input line 142.
+Package pdftex.def Info: imagenes//logo2.jpg  used on input line 140.
 (pdftex.def)             Requested size: 36.135pt x 36.11934pt.
 
 Underfull \hbox (badness 1681) has occurred while \output is active
@@ -1097,7 +1097,22 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [9]
-<ProyectoBalda.pdf, id=207, 598.235pt x 845.1575pt>
+File: imagenes//logo2.jpg Graphic file (type jpg)
+<use imagenes//logo2.jpg>
+Package pdftex.def Info: imagenes//logo2.jpg  used on input line 142.
+(pdftex.def)             Requested size: 36.135pt x 36.11934pt.
+
+Underfull \hbox (badness 1681) has occurred while \output is active
+[][]\OT1/lmss/bx/n/10 Proyecto de Gesti^^Son In-sti-tu-cional 2024 
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+\OT1/lmss/m/n/10 Jefatura de []Area 
+ []
+
+[10]
+<ProyectoBalda.pdf, id=217, 598.235pt x 845.1575pt>
 File: ProyectoBalda.pdf Graphic file (type pdf)
 <use ProyectoBalda.pdf>
 Package pdftex.def Info: ProyectoBalda.pdf  used on input line 146.
@@ -1106,7 +1121,7 @@ File: ProyectoBalda.pdf Graphic file (type pdf)
 <use ProyectoBalda.pdf>
 Package pdftex.def Info: ProyectoBalda.pdf  used on input line 146.
 (pdftex.def)             Requested size: 598.23354pt x 845.15544pt.
-<ProyectoBalda.pdf, id=210, page=1, 598.235pt x 845.1575pt>
+<ProyectoBalda.pdf, id=220, page=1, 598.235pt x 845.1575pt>
 File: ProyectoBalda.pdf Graphic file (type pdf)
 <use ProyectoBalda.pdf, page 1>
 Package pdftex.def Info: ProyectoBalda.pdf , page1 used on input line 146.
@@ -1129,7 +1144,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \OT1/lmss/m/n/10 Jefatura de []Area 
  []
 
-[10]
+[11]
 File: ProyectoBalda.pdf Graphic file (type pdf)
 <use ProyectoBalda.pdf, page 1>
 Package pdftex.def Info: ProyectoBalda.pdf , page1 used on input line 146.
@@ -1142,8 +1157,8 @@ File: ProyectoBalda.pdf Graphic file (type pdf)
 <use ProyectoBalda.pdf, page 1>
 Package pdftex.def Info: ProyectoBalda.pdf , page1 used on input line 146.
 (pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
- [11 <./ProyectoBalda.pdf>]
-<ProyectoBalda.pdf, id=234, page=2, 598.235pt x 845.1575pt>
+ [12 <./ProyectoBalda.pdf>]
+<ProyectoBalda.pdf, id=244, page=2, 598.235pt x 845.1575pt>
 File: ProyectoBalda.pdf Graphic file (type pdf)
 <use ProyectoBalda.pdf, page 2>
 Package pdftex.def Info: ProyectoBalda.pdf , page2 used on input line 146.
@@ -1156,24 +1171,24 @@ File: ProyectoBalda.pdf Graphic file (type pdf)
 <use ProyectoBalda.pdf, page 2>
 Package pdftex.def Info: ProyectoBalda.pdf , page2 used on input line 146.
 (pdftex.def)             Requested size: 562.80652pt x 795.10587pt.
- [12 <./ProyectoBalda.pdf>] 
+ [13 <./ProyectoBalda.pdf>] 
 AED: lastpage setting LastPage
 (EDMAGE2024.aux)
 Package rerunfilecheck Info: File `EDMAGE2024.out' has not changed.
-(rerunfilecheck)             Checksum: 382193A38043C64C7F4E0F3DBBEBCF8C;5182.
+(rerunfilecheck)             Checksum: D40288BDBBB60146483BDDC1F3E166E8;5331.
  ) 
 Here is how much of TeX's memory you used:
- 41785 strings out of 475385
- 976128 string characters out of 2777851
- 1540874 words of memory out of 3000000
- 62522 multiletter control sequences out of 15000+600000
+ 41788 strings out of 475385
+ 976165 string characters out of 2777851
+ 1541874 words of memory out of 3000000
+ 62523 multiletter control sequences out of 15000+600000
  529478 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,20n,104p,1254b,857s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rmtt.enc}{C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/adm/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on EDMAGE2024.pdf (12 pages, 337822 bytes).
+Output written on EDMAGE2024.pdf (13 pages, 341035 bytes).
 PDF statistics:
- 298 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 235 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 309 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
