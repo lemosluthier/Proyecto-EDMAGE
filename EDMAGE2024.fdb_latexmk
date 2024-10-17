@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729191956.06808 "j:/Mi unidad/JEFATURA DE AREA/EDMAGE/Proyecto-EDMAGE/EDMAGE2024.tex" "EDMAGE2024.pdf" "EDMAGE2024" 1729191963.08062 0
+["pdflatex"] 1729193800.45832 "j:/Mi unidad/JEFATURA DE AREA/EDMAGE/Proyecto-EDMAGE/EDMAGE2024.tex" "EDMAGE2024.pdf" "EDMAGE2024" 1729193807.518 0
   "Acuerdos.tex" 1729191820 2946 982c25da054b142f4c27d1e1bd0da315 ""
   "Base de Datos.tex" 1729191820 1840 d716a6384dfb15973f90a52836920dd5 ""
   "C:/Users/adm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729009985 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -228,11 +228,11 @@
   "C:/Users/adm/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/adm/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1650051284 2245 c8a4088d07cffc2e5207730c738edd76 ""
   "C:/Users/adm/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1650051284 20785 71a3d72ab517959a6979c27e6176bec1 ""
-  "EDMAGE2024.aux" 1729191962 6228 9b7a95f75434989ca8ab20b22826e522 "pdflatex"
-  "EDMAGE2024.out" 1729191962 5331 d40288bdbbb60146483bddc1f3e166e8 "pdflatex"
+  "EDMAGE2024.aux" 1729193806 6804 6183fd3d7310e0f5f2e99d4560d082b0 "pdflatex"
+  "EDMAGE2024.out" 1729193806 6153 3c2d4929c59e92820c412a480a45a430 "pdflatex"
   "EDMAGE2024.tex" 1729191820 4948 af3cf213053e75b6f68011586cacac4a ""
-  "EDMAGE2024.toc" 1729191962 3694 048da7c0c20d8fa8854963f69f8f6a5d "pdflatex"
-  "Enunciado.tex" 1729191820 2404 f8e874d2a1bb4c6043b6dd99f89304c6 ""
+  "EDMAGE2024.toc" 1729193806 4106 aca8dd5d48074bf16d08585e2dc3b7b7 "pdflatex"
+  "Enunciado.tex" 1729193789 4314 4c85b2b29627f0c627e251cdab100f37 ""
   "EvalColegiada.tex" 1729191820 1806 e0a7a186d9d8381e99ab4e4947ffae36 ""
   "LDBDD.tex" 1729191820 2250 d213278fce8adebc6c8e5ae0370a8c52 ""
   "LDDW.tex" 1729191820 1989 5991c39e805aeb4dd7d42457ce3b15d9 ""
